@@ -1,7 +1,7 @@
 # Revit_API
 // Revit_API
 /*
-Task 2
+
 
 Develop classes (or structures) to work with 2D geometry:
 1.	Point;
